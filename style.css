@@ -2,6 +2,7 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+
 /* header */
 
 /* navbar */
@@ -58,3 +59,15 @@ header {
 /* end of banner */
 
 /* end of header */
+/* body */
+.avatar-sm {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+/* content */
+a:link {
+    text-decoration: none;
+    }
+/* end of content */
+/* end of body */
