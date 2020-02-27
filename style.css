@@ -2,6 +2,9 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+ul {
+    list-style-type: none;
+}
 
 /* header */
 
@@ -75,5 +78,15 @@ a:link {
     text-decoration: none;
 }
 /* end of content */
-
+/* list content */
+.img {
+    width: 220px;
+	height: 135px;
+    float: none;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    vertical-align: middle;
+    border-style: none;
+}
+/* end of list content */
 /* end of body */
