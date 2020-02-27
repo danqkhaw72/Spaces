@@ -73,6 +73,12 @@ header {
     background-color: #005ad4;
     border-color: #005ad4;
 }
+.border-soft {
+    border-color: #f3f7fa!important;
+}
+.card {
+    position: relative;
+}
 /* content */
 a:link {
     text-decoration: none;
@@ -90,3 +96,28 @@ a:link {
 }
 /* end of list content */
 /* end of body */
+
+/* footer */
+.footer-link {
+    color: #66799e;
+    font-size: 13px;
+    transition: all .3s;
+}
+
+.footer-link:hover {
+    color: #70aed2;
+    text-decoration: none;
+}
+
+.text-gray {
+    color: #66799e!important;
+}
+.bg-dark {
+    background-color: #2a354f!important;
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #11ab7c;
+    border-color: #11ab7c;
+}
+/* end of footer */
