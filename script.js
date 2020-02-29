@@ -12,7 +12,7 @@ $(document).ready(function() {
         } else {
             document.getElementById("navbar").style.top = "-50px";
             $('.nav-menu').removeClass('custom-navbar');
-  }
-  prevScrollpos = currentScrollPos;
-}
+        }
+        prevScrollpos = currentScrollPos;
+    }
 });
