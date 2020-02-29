@@ -47,8 +47,10 @@ ul {
 
 .custom-navbar {
 	padding: 13px;
-    background: linear-gradient(rgba(31, 21, 167, 0.4), rgba(31, 21, 167, 0.5));
+    background: linear-gradient(rgba(2, 1, 12, 0.959), rgba(14, 14, 75, 0.5));
+    opacity: 1;
 }
+
 /* end of navbar */
 
 header {
