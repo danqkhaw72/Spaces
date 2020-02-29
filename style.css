@@ -11,7 +11,7 @@ ul {
 /* navbar */
 .nav-menu {
     background: none;
-    padding: 10px;
+    padding: 13px;
 }
 
 .menu-item {
@@ -44,9 +44,10 @@ ul {
     transform: rotate(45deg) translate(-5px, -6px);
 }
 
+
 .custom-navbar {
-	padding: 2px 30px;
-	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5));
+	padding: 13px;
+    background: linear-gradient(rgba(31, 21, 167, 0.4), rgba(31, 21, 167, 0.5));
 }
 /* end of navbar */
 
@@ -64,7 +65,15 @@ header {
     width: 80%;
 }
 
-
+.display-2 {
+    font-size: calc(1.455rem + 2.46vw);
+}
+@media (max-width: 768px) {
+    .float-right-sm {
+      float: left;
+      margin-left: 10px;;
+    }
+  }
 /* end of banner */
 
 /* end of header */
